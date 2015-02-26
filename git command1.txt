@@ -1,0 +1,23 @@
+ 574  cd D:\Rajib_Git\
+ 575  cd D:\Rajib_Git
+ 576  git clone
+ 577  git clone https://github.com/Diageokolsc/Diageokolsc_1.git
+ 578  cd Diageokolsc_1/
+ 579  git init
+ 580  git init
+ 581  git status
+ 582  git add --all
+ 583  git status
+ 584  git commit
+ 585  git commit -m "first commit"
+ 586  git status
+ 587  git log
+ 588  git push origin
+ 589  git status
+ 590  git add .
+ 591  git status
+ 592  git commit -m "this is second comment"
+ 593  git status
+ 594  git log
+ 595  git push origin
+ 596  history
